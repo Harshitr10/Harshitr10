@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 </p>
 
 ## ✨ I know about:
-![HTML](
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />)
+![HTML](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />)
           
