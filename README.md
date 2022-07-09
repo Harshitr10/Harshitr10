@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height"40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> 
 
 ## Github Stats
-          
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harshitr10&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harshitr10&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
           
               
           
