@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/Raiharshit2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Raiharshit2002" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshit-rai-b7764522b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harshit rai" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/harshit-rai-b7764522b" target="blank"><img align="center" src="<a href="https://linkedin.com/in/harshit-rai-b7764522b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harshit rai" height="30" width="40" /></a>
-" alt="Harshit rai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshit-rai-b7764522b" target="blank"><img align="center" src="blob:null/e794e07e-837c-419a-8a0b-73ad90de5d31"  alt="Harshit rai" height="30" width="40" /></a>
 
 
 </p>
